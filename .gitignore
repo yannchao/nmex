@@ -1,0 +1,5 @@
+*.swp
+*.swo
+.DS_Store
+/project/obj
+/project/all_objs

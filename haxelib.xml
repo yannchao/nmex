@@ -1,0 +1,7 @@
+<project name="nmex" url="http://code.google.com/p/nmex/" license="MIT">
+    <user name="Yann"/>
+ 	<description>NME extensions for IOS/Android including AdMob, Game Center, Google Analytics and more.</description>
+    <version name="1.0.0">Initial Release</version>
+	<depends name="nme"/>
+	<depends name="hxcpp"/>
+</project>
